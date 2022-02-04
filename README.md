@@ -2,7 +2,7 @@
 - :man_technologist: Soy un desarrollador fullstack en continuo aprendizaje
 - 📫 Puedes contactarme en a.andresnogales@gmail.com
 
-Visita mi portfolio en https://andresnogales.github.io/personal-portfolio/
+Visita mi portfolio en https://andresnogales.github.io/portfolio/
 
 <!---
 andresnogales/andresnogales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
